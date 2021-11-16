@@ -11,6 +11,5 @@ begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
   Application.CreateForm(TMainForm, MainForm);
-  //Application.CreateForm(TDMWhatsApp, DMWhatsApp);
   Application.Run;
 end.
