@@ -3,7 +3,7 @@ program i9BotExemplo;
 uses
   Vcl.Forms,
   Main in 'Main.pas' {MainForm},
-  i9Bot in 'i9bot\i9Bot.pas';
+  i9Bot in 'i9Bot.pas';
 
 {$R *.res}
 
